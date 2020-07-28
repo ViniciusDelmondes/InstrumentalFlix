@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Guitarras",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Guitarras mais vistas",
+        "url": "https://www.youtube.com/results?search_query=review+guitarra"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=qbyWT-OjW2w"
+        },
+        {
+          "titulo": "LTD MH 100QM",
+          "url": "https://www.youtube.com/watch?v=ONkefhLAicw"
+        },
+        {
+          "titulo": "VINTAGE V100 AFD",
+          "url": "https://www.youtube.com/watch?v=vUMldKMLtB8"
+        },
+        {
+          "titulo": "ESP LTD SNAKEBYTE",
+          "url": "https://www.youtube.com/watch?v=GEIhd7bvwdA"
+        },
+        {
+          "titulo": "LTD M-330R",
+          "url": "https://www.youtube.com/watch?v=9Skpwo_8gFE"
+        },
+        {
+          "titulo": "ESP LTD ST 203",
+          "url": "https://www.youtube.com/watch?v=2h-69xvCr9I"
+        },
+        {
+          "titulo": "STRATOCASTER STS-100 MBL",
+          "url": "https://www.youtube.com/watch?v=jIRcuzHvqVE"
+        },
+        {
+          "titulo": "VINTAGE V6",
+          "url": "https://www.youtube.com/watch?v=u8iSVBS7vf8"
+        }        
+      ]
+    },
+    {
+      "titulo": "Baterias",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Baterias mais vistas",
+        "url": "https://www.youtube.com/results?search_query=review+baterias%27"
+      },
+      "videos": [
+        {
+          "titulo": "DIXON CHAOS CH522",
+          "url": "https://www.youtube.com/watch?v=SAVHAI0CiWQ"
+        },
+        {
+          "titulo": "Eletrônica DDM-110",
+          "url": "https://www.youtube.com/watch?v=vMTPdLJrVmY"
+        },
+        {
+          "titulo": "Michael Audition DM828",
+          "url": "https://www.youtube.com/watch?v=O5qpJQlBhtA"
+        },
+        {
+          "titulo": "Odery",
+          "url": "https://www.youtube.com/watch?v=CbII0XWjhfY"
+        }, 
+        {
+          "titulo": "Odery Fluence Jam",
+          "url": "https://www.youtube.com/watch?v=vMTPdLJrVmY"
+        }
+      ]
+    },
+    {
+      "titulo": "Teclados",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Teclados mais vistos",
+        "url": "https://www.youtube.com/results?search_query=teclados+review"
+      },
+      "videos": [
+        {
+          "titulo": "Roland Go Keys",
+          "url": "https://www.youtube.com/watch?v=YCIE9BW1wC0"
+        },
+        {
+          "titulo": "Roland Xps10",
+          "url": "https://www.youtube.com/watch?v=qbyWT-OjW2w"
+        },
+        {
+          "titulo": "Casio Ctk 3200",
+          "url": "https://www.youtube.com/watch?v=TAzxQBBPzLA"
+        },
+        {
+          "titulo": "Roland EX30",
+          "url": "https://www.youtube.com/watch?v=iJQk1JzaFX0"
+        }
+      ]
+    },
+    {
+      "titulo": "Contra-baixo",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "GB-1DA GIANNINI",
+          "url": "https://www.youtube.com/watch?v=qj3io0XxrtE"
+        },
+        {
+          "titulo": "STRINBERG PBS-40",
+          "url": "https://www.youtube.com/watch?v=bB1YztxsV1g"
+        },
+        {
+          "titulo": "Giannini GBX1",
+          "url": "https://www.youtube.com/watch?v=u5jwrK9mY_o"
+        },
+        {
+          "titulo": "TAGIMA TW-66",
+          "url": "https://www.youtube.com/watch?v=LrGWu4vDBCw"
+        }
+      ]
+    },
+    {
+      "titulo": "Violões",
+      "cor": "red",
+      "link_extra": {
+        "text": "Violões mais vistos",
+        "url": "https://www.youtube.com/results?search_query=Viol%C3%B5es+review+"
+      },
+      "videos": [
+        {
+          "titulo": "HOFMA HMF270 NT",
+          "url": "https://www.youtube.com/watch?v=Ao6zguSlm7U"
+        },
+        {
+          "titulo": "STRINBERG SD20",
+          "url": "https://www.youtube.com/watch?v=X8GZMiy2nc0"
+        },
+        {
+          "titulo": "lava me 2",
+          "url": "https://www.youtube.com/watch?v=3rkCur2skhI"
+        },
+        {
+          "titulo": "VCK370 DA VOGGA",
+          "url": "https://www.youtube.com/watch?v=5l-lqjoMHA0"
+        },
+        {
+          "titulo": "RX315 DA ROZINI",
+          "url": "https://www.youtube.com/watch?v=d3a4mLeaVqI"
+        }
+      ]
+    },
+    {
+      "titulo": "Orquestra",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Mais vistos",
+        "url": "https://www.youtube.com/results?search_query=violino+review"
+      },
+      "videos": [
+        {
+          "titulo": "4/4 VA-10 Harmonics",
+          "url": "https://www.youtube.com/watch?v=PNdK8_0Hnf4"
+        },
+        {
+          "titulo": " Sax Alto Soul",
+          "url": "https://www.youtube.com/watch?v=uiMZjzJ5NXo"
+        },
+        {
+          "titulo": "Crampon Tradition Clarinet",
+          "url": "https://www.youtube.com/watch?v=2yXy5HI9uE0"
+        },
+        {
+          "titulo": "ANTONI MARSALE C21",
+          "url": "https://www.youtube.com/watch?v=Psk-7Do5j1w"
+        },
+        {
+          "titulo": "Marsale HV400",
+          "url": "https://www.youtube.com/watch?v=7pKBXdwjEjE"
+        }
+      ]
+    }
+  ]
+}
