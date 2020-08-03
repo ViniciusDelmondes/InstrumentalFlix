@@ -2,15 +2,39 @@
     "categorias": [
         {
         "id": "1",
-        "nome": "Front-end",
-        "descricao": "Categoria Show",
+        "titulo": "Guitarras",
+        "descricao": "Categoria Example",
         "cor": "cbd1ff"
         },
         {
-            "id": "2",
-            "nome": "Back-end",
-            "descricao": "Outra Categoria Show",
-            "cor": "cbd1ff"
-            }
+        "id": "2",
+        "titulo": "Baterias",
+        "descricao": "Outra Categoria Show",
+        "cor": "cbd1ff"
+        },
+        {
+        "id": "3",
+        "titulo": "Teclados",
+        "descricao": "Outra Categoria Show",
+        "cor": "cbd1ff"
+        },
+        {
+        "id": "4",
+        "titulo": "Contra-baixo",
+        "descricao": "Outra Categoria Show",
+        "cor": "cbd1ff"
+        },
+        {
+        "id": "5",
+        "titulo": "Violões",
+        "descricao": "Outra Categoria Show",
+        "cor": "cbd1ff"
+        },
+        {
+        "id": "6",
+        "titulo": "Orquestra",
+        "descricao": "Outra Categoria Show",
+        "cor": "cbd1ff"
+        }
     ]
 }
