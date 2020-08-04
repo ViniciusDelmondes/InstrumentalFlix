@@ -2,6 +2,16 @@
 <img src="https://user-images.githubusercontent.com/60788150/89223229-d00fa980-d5ac-11ea-9bc7-a41f2b289d26.png" width="200">
 </p>
 
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/github/languages/count/ViniciusDelmondes/InstrumentalFlix"> <img src="https://img.shields.io/github/languages/top/ViniciusDelmondes/InstrumentalFlix"> <img src="https://img.shields.io/github/repo-size/ViniciusDelmondes/InstrumentalFlix"> <img src="https://img.shields.io/github/last-commit/ViniciusDelmondes/InstrumentalFlix">
+</p>
+
+
+
+<br/>
+
 <h2>
 O Projeto:
 </h2>
